@@ -1,0 +1,269 @@
+MTProto, ChatAntiSpamuk_bot:        	Reported!
+FeedLoop, ChatAntiSpamuk_bot:       	Resumed update feed loop generic
+UpdateHandler, ChatAntiSpamuk_bot:  	Saving update of type updateMessageID
+UpdateHandler, ChatAntiSpamuk_bot:  	Saving update of type updateNewMessage
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://149.154.167.222:80 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://149.154.167.222:88 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connecting to tcp://149.154.167.222:88 @ tcp://149.154.167.222:88 failed: timeout exceeded (5.000 s)
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://149.154.167.222:5222 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:443 main DC -2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:443 @ tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:443 refused
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:80 main DC -2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:80 @ tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:80 refused
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:88 main DC -2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:88 @ tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:88 refused
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:5222 main DC -2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:5222 @ tcp://[2001:067c:04e8:f002:0000:0000:0000:000b]:5222 refused
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:443/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+ContextConnector, ChatAntiSpamuk_bot: 	OK!
+GarbageCollector, ChatAntiSpamuk_bot: 	gc_collect_cycles done. Cleaned memory: 0 Mb
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:80/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): TLS negotiation failed: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:88/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): The operation was cancelled
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:5222/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): The operation was cancelled
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:443/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:80/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): TLS negotiation failed: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:88/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): The operation was cancelled
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:5222/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+PingLoop, ChatAntiSpamuk_bot:       	Ping DC 1.0
+PingLoop, ChatAntiSpamuk_bot:       	Ping DC 3.0
+Session, ChatAntiSpamuk_bot:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+PingLoop, ChatAntiSpamuk_bot:       	Ping DC 4.0
+PingLoop, ChatAntiSpamuk_bot:       	Ping DC 5.0
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): The operation was cancelled
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:443/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+PingLoop, ChatAntiSpamuk_bot:       	Ping DC 2.0
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:80/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): TLS negotiation failed: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:88/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Session, ChatAntiSpamuk_bot:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, ChatAntiSpamuk_bot:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://venus-1.web.telegram.org:88/apiw1 @ tcp://[2001:67c:4e8:f004::9]:88 refused; previous attempts: tcp://venus-1.web.telegram.org:88/apiw1 @ tcp://149.154.167.99:88 (connection timeout)
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:5222/apiw1 main DC -2, via ipv4 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://venus-1.web.telegram.org:5222/apiw1 @ tcp://[2001:67c:4e8:f004::9]:5222 refused; previous attempts: tcp://venus-1.web.telegram.org:5222/apiw1 @ tcp://149.154.167.99:5222 (connection timeout)
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:443/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+Connection, ChatAntiSpamuk_bot:     	Connected to DC -2.0!
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Expected a value to be true. Got: false
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:80/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): TLS negotiation failed: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:88/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://venus-1.web.telegram.org:88/apiw1 @ tcp://[2001:67c:4e8:f004::9]:88 refused; previous attempts: tcp://venus-1.web.telegram.org:88/apiw1 @ tcp://149.154.167.99:88 (connection timeout)
+DataCenter, ChatAntiSpamuk_bot:     	Reconnecting to DC -2 (0) from existing
+DataCenterConnection, ChatAntiSpamuk_bot: 	Trying shared connection via tcp://venus-1.web.telegram.org:5222/apiw1 main DC -2, via ipv6 using HttpsStream => BufferedRawStream => DefaultStream (0)
+Connection, ChatAntiSpamuk_bot:     	Connecting to DC -2.0
+DataCenter, ChatAntiSpamuk_bot:     	Connection failed (-2): Connection to tcp://venus-1.web.telegram.org:5222/apiw1 @ tcp://[2001:67c:4e8:f004::9]:5222 refused; previous attempts: tcp://venus-1.web.telegram.org:5222/apiw1 @ tcp://149.154.167.99:5222 (connection timeout)
+Exception, ChatAntiSpamuk_bot:      	Could not connect to DC -2 in DataCenter.php:264
+Exception, ChatAntiSpamuk_bot:      	danog\MadelineProto\Exception: Could not connect to DC -2 in D:\xampp\htdocs\bogdan\chatbot\vendor\danog\madelineproto\src\DataCenter.php:264
+Stack trace:
+#0 D:\xampp\htdocs\bogdan\chatbot\vendor\danog\madelineproto\src\Connection.php(532): danog\MadelineProto\DataCenter->dcConnect(-2, 0)
+#1 D:\xampp\htdocs\bogdan\chatbot\vendor\danog\madelineproto\src\Loop\Connection\WriteLoop.php(72): danog\MadelineProto\Connection->reconnect()
+#2 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(415): danog\MadelineProto\Loop\Connection\WriteLoop->danog\MadelineProto\Loop\Connection\{closure}()
+#3 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(605): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(415): Fiber->resume(NULL)
+#6 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(605): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(487): Fiber->resume()
+#9 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(542): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(86): Fiber->resume()
+#12 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\DriverSuspension.php(87): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 D:\xampp\htdocs\bogdan\chatbot\vendor\amphp\amp\src\Internal\FutureIterator.php(133): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 D:\xampp\htdocs\bogdan\chatbot\vendor\amphp\amp\src\Future.php(59): Amp\Internal\FutureIterator->consume()
+#15 D:\xampp\htdocs\bogdan\chatbot\vendor\amphp\amp\src\Future\functions.php(26): Amp\Future::iterate(Array, NULL)
+#16 D:\xampp\htdocs\bogdan\chatbot\vendor\danog\madelineproto\src\API.php(463): Amp\Future\awaitFirst(Array)
+#17 D:\xampp\htdocs\bogdan\chatbot\index.php(183): danog\MadelineProto\API::startAndLoopMulti(Array, Array)
+#18 {main}
+
+Next Revolt\EventLoop\UncaughtThrowable: Uncaught danog\MadelineProto\Exception thrown in event loop error handler danog\MadelineProto\API::danog\MadelineProto\{closure} defined in D:\xampp\htdocs\bogdan\chatbot\vendor\danog\madelineproto\src\API.php:432: Could not connect to DC -2 in D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\UncaughtThrowable.php:22
+Stack trace:
+#0 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\AbstractDriver.php(623): Revolt\EventLoop\UncaughtThrowable::throwingErrorHandler(Object(Closure), Object(danog\MadelineProto\Exception))
+#1 D:\xampp\htdocs\bogdan\chatbot\vendor\revolt\event-loop\src\EventLoop\Internal\DriverSuspension.php(92): Revolt\EventLoop\Internal\AbstractDriver::Revolt\EventLoop\Internal\{closure}()
+#2 D:\xampp\htdocs\bogdan\chatbot\vendor\amphp\amp\src\Internal\FutureIterator.php(133): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#3 D:\xampp\htdocs\bogdan\chatbot\vendor\amphp\amp\src\Future.php(59): Amp\Internal\FutureIterator->consume()
+#4 D:\xampp\htdocs\bogdan\chatbot\vendor\amphp\amp\src\Future\functions.php(26): Amp\Future::iterate(Array, NULL)
+#5 D:\xampp\htdocs\bogdan\chatbot\vendor\danog\madelineproto\src\API.php(463): Amp\Future\awaitFirst(Array)
+#6 D:\xampp\htdocs\bogdan\chatbot\index.php(183): danog\MadelineProto\API::startAndLoopMulti(Array, Array)
+#7 {main}
+MTProto, ChatAntiSpamuk_bot:        	Prompting final serialization (SHUTDOWN)...
+SessionPaths, ChatAntiSpamuk_bot:   	Waiting for exclusive lock of D:\xampp\htdocs\bogdan\chatbot\0\safe.php.lock...
+SessionPaths, ChatAntiSpamuk_bot:   	Got exclusive lock of D:\xampp\htdocs\bogdan\chatbot\0\safe.php.lock...
+SessionPaths, ChatAntiSpamuk_bot:   	Waiting for exclusive lock of D:\xampp\htdocs\bogdan\chatbot\0\lightState.php.lock...
+SessionPaths, ChatAntiSpamuk_bot:   	Got exclusive lock of D:\xampp\htdocs\bogdan\chatbot\0\lightState.php.lock...
+APIWrapper, ChatAntiSpamuk_bot:     	Saved session!
+MTProto, ChatAntiSpamuk_bot:        	Done final serialization (SHUTDOWN)!
+MTProto, ChatAntiSpamuk_bot:        	Shutting down MadelineProto (MTProto)
+MTProto, ChatAntiSpamuk_bot:        	Will unreference instance
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC 2
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC 2.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC 2.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC 2.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC 2
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC 1
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC 1.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC 1.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC 1.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC 1
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC -2
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.0
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.1
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.1
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.1
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.2
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.2
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.2
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.3
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.3
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.3
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.4
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.4
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.4
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.5
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.5
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.5
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.6
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.6
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.6
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.7
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.7
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.7
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.8
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.8
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.8
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.9
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.9
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.9
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -2.10
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -2.10
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -2.10
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC -2
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC 3
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC 3.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC 3.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC 3.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC 3
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC 4
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC 4.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC 4.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC 4.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC 4
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC -4
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.0
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.1
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.1
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.1
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.2
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.2
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.2
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.3
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.3
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.3
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.4
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.4
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.4
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.5
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.5
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.5
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.6
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.6
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.6
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.7
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.7
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.7
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.8
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.8
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.8
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.9
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.9
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.9
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC -4.10
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC -4.10
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC -4.10
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC -4
+DataCenterConnection, ChatAntiSpamuk_bot: 	Disconnecting from shared DC 5
+Connection, ChatAntiSpamuk_bot:     	Disconnecting from DC 5.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up  from DC 5.0
+Connection, ChatAntiSpamuk_bot:     	Disconnected from DC 5.0
+DataCenterConnection, ChatAntiSpamuk_bot: 	Backed up 0, added to 0 existing messages) from DC 5
+MTProto, ChatAntiSpamuk_bot:        	Unreferenced instance
+MTProto, ChatAntiSpamuk_bot:        	Successfully destroyed MadelineProto

@@ -1,0 +1,23 @@
+{
+    "name": "yourname/yourproject",
+    "description": "Project description",
+    "type": "project",
+    "minimum-stability": "beta",
+    "require": {
+        "danog/madelineproto": "^8",
+        "amphp/amp": "^2.6",
+        "revolt/event-loop": "^1.0"
+    },
+    "license": "AGPL-3.0-only",
+    "authors": [
+        {
+            "name": "Daniil Gentili",
+            "email": "daniil.gentili.dg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Your\\Project\\": "src/"
+        }
+    }
+}
